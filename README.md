@@ -49,7 +49,7 @@ JavaScript, TypeScript, React, Node.js, Express, Next.js, MongoDB, SQL, AWS, etc
 ### 🚀 Currently Exploring
 Golang, Blockchain, Rust, Solidity, Solana
 
-### 💻 About Me
+### 💻 About
 Passionate about building scalable, high-quality web applications.
 
 ### 🍕 Activities
