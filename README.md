@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img width="1584" height="672" alt="github" src="https://github.com/user-attachments/assets/fb9ec62d-f9fa-4975-86f5-0d3ecdbd7a64" />
+  <img width="4752" height="1188" alt="linkdin cover 2@3x" src="https://github.com/user-attachments/assets/12ac0525-608e-41aa-b61f-04c2e1b9086b" />
 </p>
 
 <h1 align="center">Hi 👋, I'm TF Shoriful Islam</h1>
