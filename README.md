@@ -45,14 +45,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tfshorifulislam&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfshorifulislam&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=tfshorifulislam&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---
