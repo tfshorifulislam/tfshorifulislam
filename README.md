@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/j0V05t3/Untitled-2.png" alt="Banner" />
+<img width="1584" height="672" alt="Gemini_Generated_Image_wgtfhjwgtfhjwgtf" src="https://github.com/user-attachments/assets/0ab9ccc4-2adc-45d6-861c-a4f36676e687" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Tf Shoriful Islam</h1>
