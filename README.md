@@ -47,14 +47,14 @@
 
 ## 📊 GitHub Stats Dashboard
 
-<!-- Profile Details (Top Big Card) -->
+<!-- Profile Details -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tfshorifulislam&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- Top Stats Row -->
+<!-- Row 1 -->
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tfshorifulislam&theme=tokyonight" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tfshorifulislam&theme=tokyonight" />
@@ -62,7 +62,7 @@
 
 ---
 
-<!-- Language + Commit Graph -->
+<!-- Row 2 -->
 <p align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tfshorifulislam&theme=tokyonight" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tfshorifulislam&theme=tokyonight&utcOffset=6" />
@@ -70,7 +70,7 @@
 
 ---
 
-<!-- Contribution Graph -->
+<!-- Row 3 -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tfshorifulislam&theme=github-dark&hide_border=true" />
 </p>
