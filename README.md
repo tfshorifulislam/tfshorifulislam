@@ -48,15 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tfshorifulislam&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com?user=tfshorifulislam&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tfshorifulislam&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfshorifulislam&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tfshorifulislam&theme=tokyonight" />
 </p>
 
 ---
