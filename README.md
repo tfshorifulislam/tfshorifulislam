@@ -50,7 +50,7 @@
 - 💻 Full-Stack Developer focused on the MERN Stack
 - 🌱 Currently learning advanced Next.js and scalable backend architecture
 - 🚀 Building modern, responsive, and performance-optimized web applications
-- 🎯 Interested in SaaS, E-Commerce, Real-Time Apps, and AI-powered products
+- 🎯 Interested in SaaS, E-Commerce, Real-Time Apps, modern application, and AI-powered products
 - ⚡ Passionate about clean code and great user experiences
 
 ---
