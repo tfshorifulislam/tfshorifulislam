@@ -1,13 +1,13 @@
 <!-- Banner -->
 
 <p align="center">
- <img width="1584" height="672" alt="github" src="https://github.com/user-attachments/assets/fb9ec62d-f9fa-4975-86f5-0d3ecdbd7a64" />
+  <img width="1584" height="672" alt="github" src="https://github.com/user-attachments/assets/fb9ec62d-f9fa-4975-86f5-0d3ecdbd7a64" />
 </p>
 
 <h1 align="center">Hi 👋, I'm TF Shoriful Islam</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+🚀;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=React+Developer;Next.js+Developer;Full-Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications" />
 </h3>
 
 <p align="center">
@@ -48,8 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tfshorifulislam&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfshorifulislam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tfshorifulislam&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfshorifulislam&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -59,8 +62,8 @@
 - 💻 Full-Stack Developer focused on the MERN Stack
 - 🌱 Currently learning advanced Next.js and scalable backend architecture
 - 🚀 Building modern, responsive, and performance-optimized web applications
-- 🎯 Interested in SaaS, E-Commerce, Real-Time Apps, modern application, and AI-powered products
-- ⚡ Passionate about clean code and great user experiences
+- 🎯 Interested in SaaS, E-Commerce, Real-Time Applications, and AI-powered products
+- ⚡ Passionate about clean code and exceptional user experiences
 
 ---
 
@@ -92,19 +95,12 @@
 
 ---
 
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tfshorifulislam">
-    LinkedIn
-  </a>
+  <a href="https://www.linkedin.com/in/tfshorifulislam">LinkedIn</a>
   •
-  <a href="https://github.com/tfshorifulislam">
-    GitHub
-  </a>
+  <a href="https://github.com/tfshorifulislam">GitHub</a>
   •
-  <a href="mailto:tfshorifulislam@gmail.com">
-    Email
-  </a>
+  <a href="mailto:tfshorifulislam@gmail.com">Email</a>
 </p>
