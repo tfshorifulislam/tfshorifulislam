@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="TF Shoriful Islam Banner" width="100%" />
+ <img width="1584" height="672" alt="github" src="https://github.com/user-attachments/assets/fb9ec62d-f9fa-4975-86f5-0d3ecdbd7a64" />
 </p>
 
 <h1 align="center">Hi 👋, I'm TF Shoriful Islam</h1>
