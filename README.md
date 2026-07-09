@@ -89,28 +89,70 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
+## 🚀 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend
+---
+
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+---
+
+## 🗄️ Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-### Tools
+---
+
+## 🎨 UI / UX & Graphic Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## ☁️ Deployment & Hosting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+---
+
+## 🔥 Authentication & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Better%20Auth-Authentication-6633FF?style=flat-square" />
+</p>
+
+---
+
+## 📦 Others
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,cloudflare" />
 </p>
 
 ---
@@ -118,9 +160,15 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tfshorifulislam">LinkedIn</a>
-  •
-  <a href="https://github.com/tfshorifulislam">GitHub</a>
-  •
-  <a href="mailto:tfshorifulislam@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/tfshorifulislam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/tfshorifulislam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:tfshorifulislam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
