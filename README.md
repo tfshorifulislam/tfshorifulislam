@@ -139,20 +139,9 @@
 
 ## 🔥 Authentication & Services
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Better%20Auth-Authentication-6633FF?style=flat-square" />
-</p>
-
----
-
-## 📦 Others
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,cloudflare" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="48" />
+  <img src="https://better-auth.com/icon.svg" height="48" alt="Better Auth" />
 </p>
 
 ---
