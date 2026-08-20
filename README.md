@@ -4,7 +4,7 @@
 <img width="1584" height="396" alt="Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/725293a4-e38d-4aed-9058-56a41934d597" />
 </p>
 
-<h1 align="center">Hi 👋, I'm TF Shoriful Islam</h1>
+<h1 align="center">Hi 👋, I'm Shoriful Islam</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=React+Developer;Next.js+Developer;Full-Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications" />
