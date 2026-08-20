@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img width="4752" height="1188" alt="linkdin cover 2@3x" src="https://github.com/user-attachments/assets/12ac0525-608e-41aa-b61f-04c2e1b9086b" />
+<img width="1584" height="396" alt="Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/725293a4-e38d-4aed-9058-56a41934d597" />
 </p>
 
 <h1 align="center">Hi 👋, I'm TF Shoriful Islam</h1>
