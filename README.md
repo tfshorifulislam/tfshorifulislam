@@ -58,9 +58,9 @@ My primary focus is the JavaScript and TypeScript ecosystem, with a strong inter
 </p>
 
 ### Backend Engineering
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="48" alt="JWT" />
 </p>
 
 ### Database & Infrastructure
